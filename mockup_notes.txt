@@ -1,0 +1,13 @@
+Mockup Battle Notes:
+
+3/18/2019:
+
+- Add MP counter to swap screen
+- Implement Unit Death
+- Update Unit Swapping (no swapping to dead units)
+- Game updates to opponent to know what's happened to them
+- Maybe implement a status check screen
+
+Side project:
+
+Make a JSON editor??

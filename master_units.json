@@ -1,0 +1,105 @@
+{
+    "leader_list":
+    [
+        {
+            "leader_name": "Vencabot",
+            "modifier_type": "percentage",
+            "modifier_stat": "defense",
+            "modifier_stat_string": "defense",
+            "modifier_amount": "15"
+        },
+        {
+            "leader_name": "KReichJr",
+            "modifier_type": "percentage",
+            "modifier_stat": "atk",
+            "modifier_stat_string": "attack",
+            "modifier_amount": "10"
+        },
+        {
+            "leader_name": "Zanzhu",
+            "modifier_type": "flat",
+            "modifier_stat": "hp",
+            "modifier_stat_string": "HP",
+            "modifier_amount": "50"
+        }
+    ],
+    "unit_list": 
+    [
+        {
+            "unit_name": "Ivan Ooze", 
+            "hp": 300, 
+            "atk": 30, 
+            "defense": 15, 
+            "mp": 80, 
+            "lp": 3, 
+            "skills": 
+            [
+                {
+                    "skill_name": "Slap", 
+                    "ap": 2, 
+                    "mp": 4, 
+                    "base_damage": 5, 
+                    "skill_description": "A gentleman's slap that strikes to their soul."
+                },
+                {
+                    "skill_name": "Dropkick", 
+                    "ap": 3, 
+                    "mp": 10, 
+                    "base_damage": 12, 
+                    "skill_description": "A powerful running dropkick combining your mass and inertia to deliver the mightiest of blows to topple the enemy."
+                }
+            ]
+        },
+        {
+            "unit_name": "Mega Man", 
+            "hp": 280, 
+            "atk": 25, 
+            "defense": 24, 
+            "mp": 60, 
+            "lp": 3, 
+            "skills": 
+            [
+                {
+                    "skill_name": "Mega Buster Blast", 
+                    "ap": 3, 
+                    "mp": 8, 
+                    "base_damage": 11, 
+                    "skill_description": "A charged blast of energy from the Mega Buster of a legendary Maverick Hunter."
+                },
+                {
+                    "skill_name": "Shoryuken",
+                    "ap": 4,
+                    "mp": 15,
+                    "base_damage": 24,
+                    "skill_description": "A flaming, rising punch to the opponent's chin or chest. SHORYUKEN!"
+                }
+            ]
+        },
+        {
+            "unit_name": "Ryu", 
+            "hp": 330, 
+            "atk": 35, 
+            "defense": 18, 
+            "mp": 60, 
+            "lp": 3, 
+            "skills": 
+            [
+                {
+                    "skill_name": "Hadouken", 
+                    "ap": 2, 
+                    "mp": 6, 
+                    "base_damage": 14, 
+                    "skill_description": "Imagine focusing your body's energy into a single focal point in the palms of your hands, and then unleashing it at your opponent as a large, blue ball of energy that's two to three times the size of your head... Yep, that's a Hadouken!"
+                },
+                {
+                    "skill_name": "Tatsumaki Senpu Kyaku", 
+                    "ap": 3, 
+                    "mp": 11, 
+                    "base_damage": 20, 
+                    "skill_description": "A spinning kick that moves horizontally through the air and knocks your opponent a good distance away."
+                }
+            ]
+        }
+    ]
+}
+    
